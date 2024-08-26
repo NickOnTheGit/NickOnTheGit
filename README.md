@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NickOnTheGit
 - 👀 I’m interested in QA related topics.
 - 🌱 I’m currently learning playwright and typescript.
-- 📫 You can reach me on LinkedIn at the below link. 
+- 📫 You can reach me on LinkedIn at the link: 
       www.linkedin.com/in/nickonthelink
 - ⚡ Nice Quote: "Luck is what happens when preparation meets opportunity." — Seneca 
 
